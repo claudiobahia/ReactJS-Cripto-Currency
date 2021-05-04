@@ -1,0 +1,22 @@
+
+.body {
+    display: flex;
+    padding: 5%;
+}
+.chart{
+    width: 50%;
+    height: 100%;
+    min-width: 300px;
+}
+
+.cripto {
+    width: 50%;
+    height: 100%;
+    max-width: 500px;
+    min-width: 300px;
+    max-height: 420px;
+}
+
+.header {
+    padding-inline: 2%;
+}

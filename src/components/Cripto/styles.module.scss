@@ -1,0 +1,20 @@
+.Cripto {
+    width: auto;
+    height: auto;
+    max-height: 500px;
+}
+
+
+.addButton {
+    position: absolute;
+    padding-left: 1.00rem;
+    padding-right: 1.00rem;
+    margin-top: -1rem;
+    width: 29.15rem;
+    @media screen and (max-width: 575px){
+        width:94%;
+    }
+    @media screen and (max-width: 460px){
+        width:93%;
+    }
+}
